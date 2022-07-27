@@ -1943,7 +1943,7 @@ source('UI_Reactives.r', local=TRUE)
     
     # This uses the county flows column 3, which is the 2045 wage and salary employment
     # The 2045 wage and salary employment should equal the 2045 employed workforce
-    employment_2045 <- as.numeric(county_flows[,3])
+    employment_2045 <- as.numeric(county_flows[,2])
     
     
     

@@ -1,0 +1,26 @@
+{
+    "id": "443CAD13",
+    "path": "D:/Dropbox/R_Studio/Workforce_Estimation_Tool/Tables/county_workforce_outflows_by_destination_county.csv",
+    "project_path": "Tables/county_workforce_outflows_by_destination_county.csv",
+    "type": "text",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1657954661539.0,
+    "source_on_save": false,
+    "relative_order": 9,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "19,120",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1657953883,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1657953883,
+    "read_only": false,
+    "read_only_alternatives": []
+}
